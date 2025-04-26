@@ -8,13 +8,6 @@ This is an assignment I had done with my university groupmates in 2023 during ou
 - [Python 3.x](https://www.python.org/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Python extension installed in VS Code
-- *Note: In VSC, Please open the folder of where the program is to prevent 'file not found' and other problems.
-
-###
-- Required modules: ttkbootstrap and pillow
-- To install:
-- 1. Open terminal
-  2. Type 'pip install ttkbootstrap' and ‘pip install pillow'
 
 ### Running the Application
 
