@@ -1,5 +1,5 @@
 # Task_Striker
-This is an assignment I had done with my university groupmates in 2023 during our Foundation. It's a program demo that connects Clients with skilled Pros to solve their tasks, projects, and works. It contains several features like account creation, profile management, Pros searching/browsing, chat demo, simple payment demo, etc.
+This is an assignment I had done with my university groupmates in 2023 using Python Tkinter. It's a program demo that connects Clients with skilled Pros to solve their tasks, projects, and works. Features including account creation, profile management, Pros searching/browsing, chat demo, simple payment demo, history viewing, etc.
 
  ***FOR RESEARCH PURPOSES ONLY. LEGAL ACTIONS WILL BE TAKEN IF MISUSED.***
 
