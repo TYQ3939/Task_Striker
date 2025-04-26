@@ -1,7 +1,7 @@
 # Task_Striker
 This is an assignment I had done with my university groupmates in 2023 during our Foundation. It's a program demo that connects Clients with skilled Pros to solve their tasks, projects, and works. It contains several features like account creation, profile management, Pros searching/browsing, chat demo, simple payment demo, etc.
 
- **FOR RESEARCH PURPOSES ONLY. LEGAL ACTIONS WILL BE TAKEN IF MISUSED.**
+ ***FOR RESEARCH PURPOSES ONLY. LEGAL ACTIONS WILL BE TAKEN IF MISUSED.***
 
 This project is intended solely for educational and research purposes.  
 Unauthorized use, distribution, or modification for malicious activities is strictly prohibited.  
