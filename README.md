@@ -11,12 +11,13 @@ This is an assignment I had done with my university groupmates in 2023 during ou
 
 ### Running the Application
 
-1. Clone or download the repository.
-2. Open the project folder in Visual Studio Code.
-3. Open terminal and install ttkbootstrap and pillow modules by typing 'pip install ttkbootstrap' and ‘pip install pillow'.
-4. Open the .py file 'taskstriker.py'.
-5. Click the **Run** button.
-6. Alternatively, open the integrated terminal and run 'python taskstriker.py'.
+1. Download Task_Striker.zip.
+2. Extract the ZIP file.
+3. Open the project folder in Visual Studio Code.
+4. Open terminal and install ttkbootstrap and pillow modules by typing 'pip install ttkbootstrap' and ‘pip install pillow'.
+5. Open the .py file 'taskstriker.py'.
+6. Click the **Run** button.
+7. Alternatively, open the integrated terminal and run 'python taskstriker.py'.
 
 ### Running a Full Demo
 1. First, login to a client acc (uid 222 and pwd 22222222 for demo)
