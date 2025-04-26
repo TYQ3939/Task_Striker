@@ -20,7 +20,7 @@ Thank you.
 
 ### Running the Application
 
-1. Download Task_Striker.zip.
+1. Download **Task_Striker.zip**.
 2. Extract the ZIP file.
 3. Open the project folder in Visual Studio Code.
 4. Open terminal and install ttkbootstrap and pillow modules by typing 'pip install ttkbootstrap' and ‘pip install pillow'.
